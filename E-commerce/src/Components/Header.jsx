@@ -6,7 +6,7 @@ function Header() {
             <div className="container">
                 <ul>
                     <li>cart</li>
-                    <li>cart</li>
+                    <li>Navbar</li>
                 </ul>
             </div>
         </nav>
