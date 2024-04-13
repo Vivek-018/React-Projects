@@ -1,10 +1,10 @@
 
-
-function Square({value , onSquareclick }) {
+import "./square.css"
+function Square({ value, onSquareclick }) {
 
 
     return <>
-        <button className="square"  onClick={onSquareclick} >{value}</button>
+        <button className="square" onClick={onSquareclick} >{value}</button>
     </>
 }
 
